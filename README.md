@@ -2,7 +2,7 @@
 
 The goal of this project was to practice writing a simple GitHub Actions workflow to deploy a static website to GitHub Pages.
 
-##Requirements
+## Requirements
 
 Write a GitHub action that deploys any changes made to the index.html file to GitHub Pages. It should only deploy the file when the index.html file is changed.
 
