@@ -11,7 +11,7 @@ What I Did:
 - Created a GitHub repository for the project called gh-deployment-workflow.
 - Add a deploy.yml file in the .github/workflows directory which contains the GitHub Actions workflow to deploy the website to GitHub Pages.
 - Ensured every push to the main branch that changes the index.html file triggers the workflow to run and deploy the website to GitHub Pages.
-- Ensured the site was accessible at the GitHub pages URL for the repository e.g. https://dominicgerman.github.io/gh-deployment-workflow/.
+- Ensured the site was accessible at the GitHub pages URL for the repository e.g. https://dominicgerman.github.io/gh_deployment_workflow/.
 
 
 https://roadmap.sh/projects/github-actions-deployment-workflow
